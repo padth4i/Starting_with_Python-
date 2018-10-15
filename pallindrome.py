@@ -46,8 +46,6 @@ def isPalindrome(s):
         
          print("Not a pallindrome")
         
-
-
 isPalindrome(b1)
 
 isPalindrome(b2)
