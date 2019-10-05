@@ -7,6 +7,6 @@ def bubbleSort(a,n):
                 a[i+1] = temp
     print(a)
                 
-n=int(input("Enter the no. of numbers :"))
+n=int(input("Enter the number of elements :"))
 a = [int(x) for x in input().split()]
 bubbleSort(a,n)
